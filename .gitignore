@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Virtual environments
+venv/
+ENV/
+env/
+.env
+
+# Data and models (large binaries)
+data/processed/*.csv
+models/*.pkl
+models/*.joblib
+logs/
+*.log
+
+# IDE specific settings
+.vscode/
+.idea/
+.gemini/
+.agents/

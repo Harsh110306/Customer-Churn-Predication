@@ -12,7 +12,7 @@ Follow these steps to get the app running on your machine:
 
 ### 1. Clone the repo
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Harsh110306/Customer-Churn-Predication.git
 cd customer_churn
 ```
 
